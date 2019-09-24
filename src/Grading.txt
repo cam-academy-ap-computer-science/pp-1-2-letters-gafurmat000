@@ -1,0 +1,22 @@
+Graded 9/23 by Mark Congdon
+
+Total Score:		20/25
+
+Compiles and Runs:	10/15
+Correct Output:		6/6
+Consistent Style:	2/2
+Efficiency:			2/2
+
+Good work!  Your program is very clean and well-organized.
+
+Unfortunately, one of the stated requirements of the assignment
+was that your main method should have only three method calls
+in it.  All the rest of your methods had to be nested in the
+letters.  I had to remove 5 points because you put more than
+the three method calls into your main method.
+
+For future projects, you will want to start adding comments.
+Everybody does comments slightly differently, but at a minimum
+it would have been good to have comments separating the method
+calls that were for each letter, to make your program's
+structure more clear.
